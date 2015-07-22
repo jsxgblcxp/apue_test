@@ -1,0 +1,21 @@
+			real	                user	        sys
+buff is 1 		0m56.166s 		0m6.561s 	0m49.634s
+buff is 2 		0m28.779s 		0m3.310s 	0m25.483s
+buff is 4 		0m14.242s 		0m1.655s 	0m12.428s
+buff is 8 		0m8.154s 		0m0.812s 	0m6.739s
+buff is 16 		0m4.301s 		0m0.399s 	0m3.399s
+buff is 32 		0m2.463s 		0m0.230s 	0m1.671s
+buff is 64 		0m2.657s 		0m0.098s 	0m0.870s
+buff is 128 		0m2.796s 		0m0.051s 	0m0.453s
+buff is 256 		0m2.593s 		0m0.034s 	0m0.249s
+buff is 512 		0m2.493s 		0m0.024s 	0m0.148s
+buff is 1024 		0m2.461s 		0m0.007s 	0m0.107s
+buff is 2048 		0m2.460s 		0m0.003s 	0m0.083s
+buff is 4096 		0m2.418s 		0m0.002s 	0m0.071s
+buff is 8192 		0m2.272s 		0m0.000s 	0m0.069s
+buff is 16384 		0m2.501s 		0m0.003s 	0m0.064s
+buff is 32768 		0m2.367s 		0m0.002s 	0m0.062s
+buff is 65536 		0m2.252s 		0m0.000s 	0m0.063s
+buff is 131072 		0m2.828s 		0m0.000s 	0m0.063s
+buff is 262144 		0m4.024s 		0m0.001s 	0m0.059s
+buff is 524288 		0m0.393s 		0m0.000s 	0m0.033s
